@@ -1,0 +1,1251 @@
+@media(max-width: 1200px) {
+	.container {
+		max-width: 1000px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item {
+		margin-bottom: 1em;
+	}
+	.recommended-videos .videos > div {
+		width: 45%;
+	}
+	.new-videos .videos > div {
+		width: 45%;
+	}
+	.new-videos .videos > div > p {
+		bottom: unset;
+	}
+	.statya .ul-content .left {
+		width: 100%;
+	}
+	.statya .ul-content .right {
+		border-left: transparent;
+		padding-left: 0px;
+		margin-left: 0px;
+		margin-top: 1em;
+		margin-bottom: 1em;
+		width: 100%;
+	}
+	.result ul.match li {
+		width: calc(100% / 3);
+	}
+	.statya .ul-content {
+		flex-wrap: wrap;
+	}
+	.video-content {
+		flex-wrap: wrap;
+	}
+	.video-content .video-content-left {
+		width: 100%;
+	}
+	.video-content .video-content-right {
+		width: 100%;
+	}
+	.video-left .right-text p:first-child {
+		text-align: center;
+	}
+	.video-left .right-text p:last-child {
+		text-align: center;
+	}
+	.turnir-tablitsa {
+		margin-top: 2em;
+	}
+	.left-content .accord {
+		font-size: 12px;
+	}
+}
+
+@media(max-width: 1050px) {
+	.container {
+		max-width: 970px; 
+	}
+}
+@media (max-width: 450px) {
+	.mm-navbar_tabs span {
+		display: none;
+	}
+}
+@media(max-width: 992px) {
+	.header a {
+		display: none;
+	}
+	.container {
+		max-width: 90%;
+	}
+	.header-top .header-menu ul li a {
+		font-size: 12px;
+	}
+	.header-content {
+		top: 3.5em;
+	}
+	.header-footer {
+		margin-top: 5.7em;
+	}
+	.header-content ul li a {
+		font-size: 12px;
+	}
+	.header-content ul li {
+		padding-top: 5px;
+		padding-bottom: 6px;
+	}
+	.header-top {
+		padding-top: 16px;
+		padding-bottom: 16px;
+	}
+	.header-top a.sportuz {
+		font-size: 22px;
+	}
+	.left-content .accord-in ul li a {
+		font-size: 11px;
+	}
+	.left-content .accord-in ul li {
+		padding: 5px 10px;
+	}
+	.pered-footer .pered-footer-content .right .right-top > div .right-img-text p:first-child {
+		font-size: 10px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 10px;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		font-size: 20px;
+	}
+	.header-content ul li.live {
+		padding-right: 5px;
+	}
+	.left-content .accord {
+		font-size: 11px;
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		margin-bottom: 5px;
+	}
+	.stati-content .row-stati-content-in4 .colmd9 {
+		width: 65%;
+	}
+	.stati-content .row-stati-content-in4 .colmd3 {
+		width: 35%;
+	}
+	.header-footer img {
+		width: 100%;
+	}
+	.header-footer {
+		height: auto;
+	}
+	.content {
+		margin-top: 0px;
+	}
+	.right-banner img {
+		/* width: 100%; */
+	}
+}
+
+@media(max-width: 950px) {
+	.colmd2-content-video {
+		width: 20%;
+	}
+	.colmd10-content-video {
+		width: 80%;
+	}
+	.colmd7-content-video {
+		width: 100%;
+		padding-left: 0px;
+	}
+	.colmd5-content-video {
+		width: 100%;
+		padding-left: 0px;
+	}
+	.recommended-videos .videos > div {
+		width: 30%;
+	}
+	.new-videos .videos > div {
+		width: 30%;
+	}
+	.stati-right-img ul li p {
+		bottom: 3em;
+		left: 2em;
+		font-size: 25px;
+	}
+	.statya {
+		padding-left: 0px;
+	}
+	.content .container .row-content > .colmd2-content {
+		width: 16%;
+	}
+	.content .container .row-content > .colmd10-content {
+		width: 84%;
+	}
+	.row-content-in1 {
+		flex-wrap: wrap;
+	}
+	.row-content-in1 > .colmd7-content {
+		width: 100%;
+	}
+	.row-content-in1 > .colmd5-content {
+		width: 100%;
+	}
+	.result ul.match li {
+		width: calc(100% / 6);
+	}
+	.result > p:first-child {
+		font-size: 18px;
+		margin-top: 2em;
+	}
+	.result ul.match {
+		margin-bottom: 2em;
+		padding-bottom: 1em;
+	}
+	.right-tab .md-pills {
+		display: flex;
+		justify-content: space-between;
+	}
+	.right-tab .nav-link {
+		font-size: 14px;
+	}
+	.match21 tr:first-child td {
+		font-size: 14px;
+	}
+	.match21 tr:last-child td {
+		font-size: 14px;
+	}
+	.turnir-tablitsa p:first-child {
+		font-size: 18px;
+		text-align: center;
+	}
+	.stati-content .row-stati-content-in4 .colmd9 {
+		width: 60%;
+	}
+	.stati-content .row-stati-content-in4 .colmd3 {
+		width: 40%;
+	}
+	.result ul.match li a p:last-child {
+		font-size: 14px;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		font-size: 16px;
+	}
+	.news-desc .news-desc-right p:first-child {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.news-desc .news-desc-right p:nth-child(3) {
+		font-size: 13px;
+		line-height: 18px;
+	}
+	.news-desc .row-news .colmd8 {
+		padding-left: 20px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:first-child {
+		font-size: 25px;
+	}
+	.footer .left p a {
+		font-size: 14px;
+	}
+}
+
+@media(max-width: 920px) {
+	
+}
+
+@media(max-width: 900px) {
+	.statya .ul-content .left {
+		width: 40%;
+	}
+	.colmd2-content-video {
+		display: none;
+	}
+	.colmd10-content-video {
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 1em;
+		padding-right: 1em;
+		width: 100%;
+	}
+	.statya .ul-content .right {
+		width: 50%;
+		border-left: 1px solid #F2F2F2;
+		padding-left: 2em;
+		margin-left: 2em;
+		margin-bottom: 0px;
+	}
+	.result-igre {
+		margin-top: 0px;
+	}
+	.result-igre .result-title {
+		text-align: center;
+	}
+	.ukraina-liga p:first-child {
+		text-align: center;
+	}
+	.stati-right-glavniy-title {
+		text-align: center;
+	}
+	.abs {
+		display: flex;
+		justify-content: space-between;
+	}
+	.abs .stati-right {
+		width: calc(97% / 2);
+	}
+	.stranitsa-komanda {
+		padding-left: 0px;
+	}
+	.result-igre {
+		padding-left: 0px;
+	}
+	.chempionat-tablitsa .match-tablitsa .match-title {
+		text-align: center;
+	}
+	.top-bombardirov {
+		margin-top: 1em;
+	}
+	.chempionat-tablitsa .match-galvniy-title {
+		text-align: center;
+	}
+	.video-left {
+		padding-left: 0px;
+	}
+	.row-content-in1 > .colmd5-content {
+		padding-left: 0px;
+	}
+	.header-top .header-menu {
+		display: none;
+	}
+	.content .container .row-content > .colmd2-content {
+		display: none;
+	}
+	.mobile-menu {
+		display: inline-block;
+	}
+	.header-content {
+		display: none;
+	}
+	.header-top {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+	.content .container .row-content > .colmd10-content {
+		width: 100%;
+		padding-left: 1em;
+	}
+	.carousel-control-prev {
+		left: 10%;
+	}
+	.row-content-in1 > .colmd5-content {
+		padding-left: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav {
+		display: flex;
+		justify-content: space-evenly;
+	}
+	.header-footer {
+		margin-top: 3.8em;
+	}
+}
+
+@media(max-width: 870px) {
+	.content-tab .nav {
+		position: relative;
+	}
+	.content-tab .nav > div {
+		width: auto;
+		position: absolute;
+		right: 2%;
+		top: 25%;
+	}
+	.result > p:first-child {
+		margin-bottom: 2em;
+	}
+	.result ul.match {
+		margin-bottom: 3em;
+		padding-bottom: 2em;
+	}
+}
+
+@media(max-width: 830px) {
+	.stati-content .row-stati-content-in4 {
+		flex-wrap: wrap;
+	}
+	.stati-content .row-stati-content-in4 .colmd9 {
+		width: 100%;
+		padding-right: 0px;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		font-size: 24px;
+	}
+	.right-banner {
+		display: flex;
+		order: 5;
+		width: 30%;
+	}
+	.stati-content .row-stati-content-in4 .colmd3 {
+		width: 100%;
+		padding-left: 0px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.stati-right {
+		width: calc(97% / 2);
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav {
+		display: flex;
+		justify-content: space-evenly;
+	}
+}
+
+@media(max-width: 800px) {
+	.content .container .row-content > .colmd10-content {
+		width: 100%;
+	}
+	.result ul.match li {
+		width: calc(100% / 4);
+	}
+	.stati-content .row-stati-content-in4 .colmd9 {
+		width: 100%;
+	}
+	.stati-content .row-stati-content-in4 .colmd3 {
+		width: 100%;
+	}
+	.footer .left p a {
+		font-size: 14px;
+	}
+}
+
+@media(max-width: 775px) {
+	.content-tab  .nav > div {
+		width: 32%;
+	}
+	.footer .left p a {
+		font-size: 14px;
+	}
+}
+
+@media(max-width: 769px) {
+	.right-banner {
+		width: 100%;
+	}
+	.colmd5-content-video {
+		display: flex;
+    	flex-wrap: wrap;
+    	justify-content: space-between;
+	}
+	.stati-right-top {
+		width: 100%;
+	}
+}
+
+@media(max-width: 750px) {
+	.stati-content .row-stati-content-in4 {
+		flex-wrap: wrap;
+	}
+	.stati-content .row-stati-content-in4 .colmd9 {
+		width: 100%;
+		padding-right: 0px;
+	}
+	.stati-content .row-stati-content-in4 .colmd3 {
+		width: 100%;
+		padding-left: 0px;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		font-size: 23px;
+	}
+	.pered-footer .pered-footer-content {
+		flex-wrap: wrap;
+	}
+	.pered-footer .pered-footer-content > div {
+		width: 100%;
+	}
+	.pered-footer .pered-footer-content .left {
+		margin-bottom: 5px;
+		position: relative;
+	}
+	.pered-footer .pered-footer-content .right .right-top > div .right-img-text p:first-child {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .right .right-top > div .right-img-text p:last-child {
+		font-size: 12px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:last-child {
+		font-size: 12px;
+	}
+	.footer .left p a {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:first-child {
+		font-size: 35px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:last-child {
+		font-size: 18px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text {
+		bottom: 3em;
+		left: 3em;
+	}
+	.row-content-in1 > .colmd5-content {
+		padding-left: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav {
+		display: flex;
+		justify-content: space-evenly;
+	}
+}
+
+@media(max-width: 730px) {
+	.right-tab > .md-pills {
+		justify-content: flex-start;
+	}
+	.right-tab .md-pills li {
+		margin-left: 1em;
+	}
+}
+
+@media(max-width: 720px) {
+	.new-videos .videos > div {
+		width: 45%;
+	}
+	.recommended-videos .videos > div {
+		width: 45%;
+	}
+}
+
+@media(max-width: 700px) {
+	.statya .ul-content .left {
+		width: 100%;
+	}
+	.statya ul.ul-top li:first-child {
+		font-size: 20px;
+	}
+	.statya .ul-content .right {
+		border-left: transparent;
+		width: 100%;
+		padding-left: 0px;
+		margin-left: 0px;
+		margin-top: 1em;
+		margin-bottom: 0px;
+	}
+	.right-tab .md-pills li {
+		margin-right: 0px;
+	}
+	.abs {
+		flex-wrap: wrap;
+	}
+	.abs .stati-right {
+		width: 100%;
+	}
+	.abs .stati-right div.futbol-comments p:last-child {
+		padding-left: 2em;
+	}
+	.header-footer {
+		margin-top: 3.8em;
+	}
+}
+
+@media(max-width: 675px) {
+	.stati-right .stati-right-title {
+		width: 100%;
+		text-align: center;
+	}
+	.result ul.match li {
+		width: calc(100% / 3);
+	}
+	.right-tab > .md-pills {
+		justify-content: space-evenly;
+	}
+	.stati-content .stati-img div:last-child {
+		left: 2em;
+	}
+	.stati-right {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.stati-right p.futbol-title {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 10px;
+		padding-bottom: 5px;
+		font-size: 25px;
+	}
+	.stati-right div.futbol-comments p:first-child {
+		margin-right: 1.5em;
+	}
+	.footer .row-footer2 {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.footer .row-footer2 > .colmd6:first-child {
+		margin-bottom: 10px;
+	}
+	.row-content-in1 > .colmd5-content {
+		padding-left: 0px;
+	}
+	.content .container .row-content > .colmd10-content {
+	}
+}
+
+@media(max-width: 650px) {
+	.stati-right {
+		width: 100%;
+	}
+	.result-content table tr td:nth-child(2) {
+		width: 24%;
+	}
+	.footer .row-footer2 > .colmd6:first-child {
+		margin-bottom: 0px;
+	}
+	.stati-right p.futbol-title {
+		font-size: 20px;
+		padding-bottom: 5px;
+		text-align: center;
+	}
+	.footer .row-footer2 {
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.footer .left {
+		margin-bottom: 1em;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		font-size: 16px;
+	}
+	.carousel-control-next {
+		right: 8%;
+	}
+	.carousel-control-prev {
+		left: 0%;
+	}
+	.row-content-in1 > .colmd5-content {
+		padding-left: 0px;
+	}
+	.stati-right-img ul li p {
+		font-size: 20px;
+	}
+	.content .container .row-content > .colmd10-content {
+	}
+}
+
+@media(max-width: 550px) {
+	.video-footer .row-content-in2 .colmd12 .row-content-in3 .colmd3 {
+		width: 90%;
+		margin-bottom: 10px;
+	}
+	.video-footer .right {
+		display: none;
+	}
+	.video-footer .row-content-in2 .colmd12 .row-content-in3 .colmd9 {
+		width: 100%;
+		padding-left: 16px;
+	}
+	.result-content table tr td:nth-child(2) {
+		width: 24%;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:first-child {
+		text-align: center;
+		width: 50%;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:last-child {
+		width: 100%;
+	}
+	.content-tab .tab-content .futbol table {
+		width: 100%;
+		margin-left: 0px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:first-child {
+		font-size: 25px;
+	}
+	.news-desc .row-news {
+		flex-wrap: wrap;
+	}
+	.news-desc .row-news .colmd4 {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.news-desc .row-news .colmd8 {
+		width: 100%;
+	}
+	.news-desc .news-desc-right p:first-child {
+		font-size: 20px;
+		line-height: 25px;
+	}
+	.right-banner {
+		width: 50%;
+	}
+	.pered-footer .pered-footer-content .right .right-top {
+		flex-wrap: wrap;
+	}
+	.pered-footer .pered-footer-content .right .right-top > div {
+		width: calc(98% / 2);
+	}
+	.pered-footer .pered-footer-content .right .right-bottom {
+		flex-wrap: wrap;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div {
+		width: calc(98% / 2);
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div:nth-child(3) {
+		position: absolute;
+		right: 0;
+		top: 33.6779%;
+	}
+	.row-content-in1 > .colmd5-content {
+		padding-left: 0px;
+	}
+	.abs .stati-right div.futbol-comments p:last-child {
+		padding-left: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:last-child table:last-child tr > td:first-child {
+		padding-left: 1em;
+	}
+}
+
+@media(max-width: 510px) {
+	.recommended-videos .videos > div {
+		width: 44%;
+	}
+	.new-videos .videos > div {
+		width: 44%;
+	}
+	.col-div .col-left {
+		width: 33%;
+	}
+	.col-div .col-center {
+		width: 33%;
+	}
+	.col-div .col-right {
+		width: 33%;
+	}
+	.col-div .col-left div:first-child {
+		margin-right: 1em;
+	}
+	.col-div .col-right div:last-child {
+		margin-left: 1em;
+	}
+}
+
+@media(max-width: 470px) {
+	.recommended-videos .videos > div {
+		width: 100%;
+	}
+	.new-videos .videos > div {
+		width: 100%;
+	}
+	.content-tab .md-pills li {
+		margin-bottom: 10px;
+	}
+	.col-div {
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+	.col-div .col-left {
+		flex-direction: column-reverse;
+		justify-content: center;
+		align-items: center;
+		width: 40%;
+		line-height: 16px;
+	}
+	.col-div .col-center {
+		width: 20%;
+	}
+	.col-div .col-right {
+		width: 40%;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.col-div .col-left div:first-child {
+		margin-right: 0px;
+	}
+	.col-div .col-right div:last-child {
+		margin-left: 0px;
+		text-align: center;
+	}
+}
+
+@media(max-width: 450px) {
+	.content-tab .tab-content .futbol table tr td:nth-child(3) {
+		text-align:center;
+	}
+	.container {
+		max-width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.header-top a.sportuz {
+		padding-left: 15px;
+	}
+	.content-tab .nav > div {
+		right: 5%;
+		top: 43%;
+		text-align: right;
+	}
+	.video-footer .left p:first-child {
+		width: 90%;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:last-child table:last-child tr > td:first-child {
+		padding-right: 1em;
+	}
+	.tab-content {
+		padding-left: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item {
+		margin-right: 15px;
+	}
+}
+
+@media(max-width: 430px) {
+	.content .container .row-content > .colmd10-komanda {
+		padding-right: 1em;
+	}
+}
+
+@media(max-width: 400px) {
+	.stranitsa-komanda > p:first-child {
+		font-size: 18px;
+	}
+	.content .container .row-content > .colmd10-komanda {
+		margin-right: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:last-child table:last-child tr td {
+		word-break: break-word;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:last-child table:last-child tr > td:first-child {
+		padding-left: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .komanda-tab > div:last-child table:last-child tr > td:first-child {
+		padding-right: 10px;
+	}
+	.result ul.match li {
+		width: calc(100% / 2);
+	}
+	.match21 tr:nth-child(3) td div:last-child {
+		top: 2px;
+	}
+	.stati-content .stati-img div:last-child p:first-child {
+		font-size: 14px;
+	}
+	.stati-content .stati-img::after {
+		height: 100%;
+		background: linear-gradient(to bottom,rgba(248,248,248,0) -70%,#000 100%)
+	}
+	.stati-right-img ul li::after {
+		height: 100%;
+		background: linear-gradient(to bottom,rgba(248,248,248,0) -30%,#000 100%)
+	}
+	.stati-content .stati-img div:last-child p:last-child span:last-child {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .right .right-top > div .right-img-text p:first-child a {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child a {
+		font-size: 14px;
+	}
+
+	.pered-footer .pered-footer-content .right .right-top > div .right-img-text p:last-child {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:first-child a {
+		font-size: 18px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:last-child {
+		font-size: 14px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:last-child {
+		font-size: 20px;
+	}
+	.news-desc .news-desc-right p:nth-child(2) span:first-child {
+		font-size: 16px;
+	}
+	.news-desc .news-desc-right p:nth-child(2) span:last-child a {
+		font-size: 16px;
+	}
+	.news-desc .news-desc-right p:last-child span:last-child a {
+		font-size: 16px;
+	}
+	.stati-content .stati-img div:last-child {
+		bottom: 0;
+		left: 9%;
+	}
+	.news-desc .row-news .colmd8 {
+		padding-left: 0px;
+	}
+	.right-banner {
+		width: 100%;
+		display: flex;
+    	justify-content: center;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text p:first-child {
+		font-size: 18px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text {
+		bottom: 1em;
+		left: 1em;
+	}
+	.stati-right div.futbol-comments p:first-child {
+		margin-right: 1em;
+	}
+	.stati-right-img ul li p {
+		font-size: 16px;
+		bottom: 1em;
+		left: 1em;
+	}
+	.chempionat-tablitsa .match-galvniy-title {
+		font-size: 18px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item {
+		margin-right: 0px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav {
+		justify-content: flex-start;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item {
+		flex-grow: 1;
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item .nav-link {
+		text-align: center;
+	}
+
+}
+
+@media(max-width: 415px) {
+	.stati-right div.futbol-comments p:last-child{
+		font-size: 13px;
+		line-height: 18px;
+	}
+	.stati-right div.futbol-comments p:first-child{
+		font-size: 13px;
+		line-height: 18px;
+		padding-top: 5px;
+	}
+	.stati-right-img ul li p {
+		font-size: 18px;
+		left: 1em;
+		bottom: 1em;
+	}
+	.stati-content .stati-img div:last-child {
+		left: 1em;
+		bottom: 0px;
+	}
+	.news-desc .row-news .colmd8 {
+		padding-left: 0px;
+	}
+	.pered-footer .pered-footer-content .left .left-img-text {
+		bottom: 0px;
+		left: 1em;
+	}
+	.statya ul.ul-top li:first-child {
+		text-align: left;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 12px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item {
+		flex-grow: 1;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:first-child span:first-child {
+		margin-right: 5px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:last-child span:last-child {
+		margin-left: 5px;
+	}
+	.content-tab .md-pills li {
+		margin-left: 8px;
+		margin-right: 8px;
+	}
+	.stati-right-top {
+		width: 100%;
+	}
+	.video-content-page .video-head-top .right {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		margin-bottom: 1em;
+	}
+	.video-content-page .video-head-top .right a.active {
+		margin-bottom: 10px;
+	}
+	.video-content-page .video-head-top {
+		align-items: center;
+	}
+	.video-content-page .video-center .bottom {
+		padding-top: 10px;
+	}
+	.video-content-page .video-center .bottom ul {
+		width: 100%;
+		justify-content: space-evenly;
+	}
+	.video-content-page .video-center .bottom .video-foot {
+		margin-bottom: 1em;
+	}
+	.new-videos .videos > div > p {
+		font-size: 14px;
+	}
+	.video-content-page .video-center .top .left {
+		margin-right: 35px;
+	}
+	.video-content-page .video-center .top .right {
+		width: 72%;
+		padding-top: 9px;
+		padding-bottom: 8px;
+	}
+	.slick-track {
+		display: flex;
+		align-items: center;
+	}
+}
+
+@media(max-width: 376px) {
+	.recommended-videos .videos > div > p a {
+		font-size: 16px;
+	}
+	.new-videos .videos > div > p a {
+		font-size: 16px;
+	}
+	.stati-right .stati-right-title {
+		text-align: left;
+	}
+	.news-desc .news-desc-right p:first-child {
+		font-size: 18px;
+	}
+	.stati-content .stati-img div:last-child {
+		left: 5%;
+	}
+	.stati-right-top div.stati-right-top-div {
+		/* flex-wrap: wrap; */
+	}
+	.stati-right-top div.stati-right-top-div .left {
+		width: 90%;
+		margin-bottom: 10px;
+		margin-right: 10px;
+	}
+	.stati-right-top div.stati-right-top-div .right {
+		width: 100%;
+	}
+	.stati-right-top div.stati-right-top-div .right ul {
+		padding-left: 0px;
+		margin-top: -7px;
+	}
+	.stranitsa-komanda .stranitsa-komanda-tab .nav .nav-item .nav-link.active {
+		text-align: center;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 16px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 15px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:first-child span:first-child {
+		margin-right: 0px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:first-child span:first-child {
+		margin-right: 5px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:last-child span:last-child {
+		margin-left: 5px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:last-child {
+		width: 80%;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:nth-child(2) {
+		width: 25%;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:first-child {
+		width: 10%;
+	}
+	.stati-right-img ul li {
+		margin-bottom: 1em;
+	}
+	.stati-right div.futbol-comments p:first-child {
+		margin-right: 0px;
+	}
+	.content-tab .md-pills li {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	.content-tab .tab-content .futbol table tr td:first-child {
+		width: 15%;
+	}
+	.right-banner-index {
+		width: 100%;
+	}
+	.stati-right-top {
+		width: 100%;
+	}
+	.video-content-page .video-head-top {
+		align-items: center;
+	}
+	.video-content-page .video-head-top  .right {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		margin-bottom: 1em;
+	}
+	.video-content-page .video-head-top .right a {
+		margin-right: 0px;
+	}
+	.video-content-page .video-head-top .right a.active {
+		margin-bottom: 10px;
+	}
+	.video-content-page .video-center .bottom {
+		padding-top: 10px;
+	}
+	.video-content-page .video-center .bottom .video-foot {
+		margin-bottom: 1em;
+	}
+	.video-content-page .video-center .bottom ul {
+		justify-content: space-evenly;
+	}
+	.stati-right-top div.stati-right-top-div {
+		margin-bottom: 0px;
+	}
+	.new-videos .videos > div > p {
+		font-size: 14px;
+	}
+	.video-content-page .video-center .top .left {
+		margin-right: 42px;
+	}
+	.video-content-page .video-center .top .right {
+		width: 72%;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.slick-track {
+		display: flex;
+		align-items: center;
+	}
+}
+
+@media(max-width: 361px) {
+	.stati-right div.futbol-comments p:first-child {
+		margin-right: 0px;
+	}
+	.abs .stati-right div.futbol-comments p:first-child {
+		margin-right: 10px;
+	}
+	.result-igre .result-title {
+		margin-top: 1em;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 15px;
+	}
+	.recommended-videos .videos > div > p {
+		bottom: unset;
+		font-size: 14px;
+	}
+	.recommended-videos .videos > div > a {
+		left: 42%;
+		top: 30%;
+	}
+	.new-videos .videos > div > a {
+		left: 42%;
+		top: 30%;
+	}
+}
+
+@media(max-width: 325px) {
+	.result-content table tr td:first-child div span:first-child {
+		margin-left: 0px;
+	}
+	.result-content table tr td:first-child {
+		width: 65%;
+	}
+	.result-content table tr td:nth-child(2) {
+		width: 50%;
+	}
+	.result-content table tr td:first-child div span:first-child {
+		margin-right: 5px;
+	}
+}
+
+@media(max-width: 321px) {
+	.statya .ul-content .right ul {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.statya .ul-content .right ul li {
+		margin-bottom: 1em;
+		width: calc(100% / 4);
+		text-align: center;
+		display: flex;
+		justify-content: center;
+	}
+	.statya .ul-content .right ul li a i {
+		margin-right: 0px;
+	}
+	.statya .ul-content .left li span {
+		margin-left: 5px;
+	}
+	.statya .ul-footer > p:first-child {
+		font-size: 12px;
+	}
+	.statya ul.ul-top li:first-child {
+		font-size: 15px;
+		text-align: left;
+	}
+	.statya ul.ul-top li:nth-child(4) {
+		text-align: justify;
+	}
+	.statya ul.ul-top li:nth-child(5) {
+		text-align: justify;
+	}
+	.statya ul.ul-top li:last-child {
+		text-align: justify;
+	}
+	.pered-footer .pered-footer-content .right .right-top > div .right-img-text p:first-child {
+		font-size: 12px;
+	}
+	.tab-content {
+		padding-top: 0px;
+		padding-right: 0px;
+	}
+	.stati-right div.futbol-comments p:first-child {
+		margin-right: 10px;
+	}
+	.pered-footer .pered-footer-content .right .right-bottom > div .right-img-text p:first-child {
+		font-size: 12px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td:nth-child(2) span {
+		font-size: 10px;
+	}
+	.chempionat-tablitsa .match-tablitsa table tr td span {
+		font-size: 10px;
+	}
+	.chempionat-tablitsa {
+		width: 111%;
+		margin-left: -10px;
+	}
+	.content-tab .md-pills li {
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+	.content-tab .tab-content .futbol table tr td:first-child {
+		width: 17%;
+		padding-right: 5px;
+	}
+	.match21 tr:first-child td {
+		font-size: 12px;
+	}
+	.match21 tr:last-child td {
+		font-size: 12px;
+	}
+	.video-content-page .video-center .bottom .video-foot {
+		justify-content: center;
+		flex-wrap: wrap;
+		margin-bottom: 0px;
+	}
+}
